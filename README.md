@@ -1,7 +1,3 @@
-ولا يهمك، حقك عليّ! أحياناً اللمسة البصرية بالإيموجيز بتخلي الكلام يفتح النفس للقراءة وتسهل الوصول للمعلومة بسرعة.
-
-إليكِ النسخة الاحترافية "المطورة"؛ دمجت فيها اللغة القوية اللي طلبتاها مع تنسيق مريح للعين وإيموجيز منتقاة بعناية عشان تحافظ على وقار المشروع وفي نفس الوقت تخليه جذاب:
-
 📊 Customer Churn Prediction & Strategic Analysis
 📝 Project Overview
 This project focuses on identifying potential churners in the telecommunications sector through advanced predictive modeling. The primary objective is to leverage data-driven insights to understand customer behavior and develop proactive retention strategies, thereby reducing revenue loss and increasing customer lifetime value (CLV).
